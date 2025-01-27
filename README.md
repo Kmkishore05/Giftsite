@@ -1,19 +1,34 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🎁 Gifts Opening Website
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A fun and interactive website where users can virtually "open gifts"! This project uses **HTML**, **CSS**,  to create an engaging experience with animations and hover effects.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- **Interactive gift boxes**: Hover over a gift box to see animations or open it with a click.
+- **Responsive design**: Works beautifully on both desktop and mobile devices.
 
-Happy Coding!
+
+## Technologies Used
+
+- **HTML5**: Semantic structure of the website.
+- **CSS3**: Styling, hover effects, and animations.
+- **JavaScript** (optional): Adds interactivity (e.g., click-to-open functionality).
+
+## Deployment
+
+The project is live and can be accessed at: [View Gifts Opening Website](https://mygiftssite.netlify.app/)
+
+## How to Use
+
+1. Visit the live website to interact with the gift boxes.
+2. Hover over the gifts to see animations or click to "open" them.
+3. Explore hidden surprises behind the gifts.
+
+
+### How it Works:
+- **Hover Effects**: Hover over a gift box to see a playful animation.
+- **Click-to-Unwrap**: Click on a gift box to reveal what's inside.
+- **Surprises**: Each gift has a unique animation or surprise content.
+
+
+
