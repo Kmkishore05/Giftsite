@@ -12,7 +12,7 @@ A fun and interactive website where users can virtually "open gifts"! This proje
 
 - **HTML5**: Semantic structure of the website.
 - **CSS3**: Styling, hover effects, and animations.
-- **JavaScript** (optional): Adds interactivity (e.g., click-to-open functionality).
+
 
 ## Deployment
 
